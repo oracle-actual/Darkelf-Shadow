@@ -33,7 +33,7 @@ classifiers = [
 dependencies = ["PySide6>=6.11.1,<6.12"]
 
 [project.optional-dependencies]
-test = ["pytest>=7", "flake8>=6"]
+test = ["pytest>=9.1.1", "flake8>=6"]
 
 [project.urls]
 Homepage = "https://github.com/oracle-actual/Darkelf-Shadow"
